@@ -1,0 +1,124 @@
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\appsettings.Development.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\appsettings.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.exe
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.deps.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.runtimeconfig.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.pdb
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Humanizer.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.build.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.development.json
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\scopedcss\bundle\tech-test-payment-api.styles.css
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CopyComplete
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\refint\tech-test-payment-api.dll
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.pdb
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.genruntimeconfig.cache
+E:\ProjetosDev\DIO - pottencial\tech-test-payment-api\obj\Debug\net6.0\ref\tech-test-payment-api.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.exe
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.deps.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.runtimeconfig.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\scopedcss\bundle\tech-test-payment-api.styles.css
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CopyComplete
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\refint\tech-test-payment-api.dll
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.pdb
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.genruntimeconfig.cache
+C:\Users\User\Desktop\ProjetosDEV\tech-test-payment-api\obj\Debug\net6.0\ref\tech-test-payment-api.dll
