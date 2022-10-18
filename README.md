@@ -1,6 +1,6 @@
 ## TESTE TÉCNICO BOOTCAMP POTTENCIAL .NET DEVELOPER
 
-API REST contruida utilizando .Net.
+API REST construída utilizando .Net.
 
 <img src="src/Screenshots/Swagger.png" alt="Homme do Swagger.">
 <img src="src/Screenshots/Schema.png" alt="Schema da API.">
